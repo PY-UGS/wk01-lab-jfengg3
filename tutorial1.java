@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class Main {
+class tutorial1 {
   public static void main(String[] args) {
     // qns 2a
     System.out.println("Hello, I am Jing Jie!");
